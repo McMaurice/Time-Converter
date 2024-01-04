@@ -1,0 +1,1 @@
+This application serves as a time converter, seamlessly converting between seconds, minutes, hours, and days based on user input. It features a well-designed user interface (UI) for a smooth and intuitive experience.
